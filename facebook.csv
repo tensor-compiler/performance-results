@@ -1,3 +1,3 @@
-date,mean,stdev,median
+date,compileTime,assembleTime,mean,stdev,median
 09/25/17,300.734,0.047825,36.0326,0.0581949,35.9982
 09/25/17,227.52,0.033326,33.0066,0.0512298,32.9721
